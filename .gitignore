@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+project_config.json
+data/
+outputs/
+blog-draft.md
